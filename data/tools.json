@@ -102,6 +102,16 @@
       "url": "https://psso.th-koeln.de/qisserver/rds?state=user&type=0"
     },
     {
+      "id": "prox",
+      "name": "PROX",
+      "color": "indigo",
+      "question": "Wo finde ich Projekte- und Abschlussarbeiten?",
+      "summary": "PROX (Project Exchange TH Köln) ist ein Webportal, auf dem Studierende der TH Köln, lokale Unternehmen und Lehrende der TH Köln zusammengebracht werden.",
+      "features": ["Projektarbeiten", "Masterarbeiten", "Bachelorarbeiten"],
+      "zugang": [],
+      "url": "https://prox.innovation-hub.de/"
+    },
+    {
       "id": "webmail",
       "name": "Webmail",
       "color": "plum",
